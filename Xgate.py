@@ -1,4 +1,3 @@
-
 from qiskit import QuantumCircuit, execute, Aer
 
 # Create a quantum circuit with 4 qubits
