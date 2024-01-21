@@ -27,5 +27,3 @@ result = job.result()
 
 # Get the counts of the measurement outcomes
 counts = result.get_counts(circuit)
-
-```
